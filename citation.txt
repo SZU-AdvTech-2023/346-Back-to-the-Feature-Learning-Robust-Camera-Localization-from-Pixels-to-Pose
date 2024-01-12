@@ -1,0 +1,7 @@
+@inproceedings{REPO346,
+    author = "Sarlin, Paul-Edouard and Unagar, Ajaykumar and Larsson, Mans and Germain, Hugo and Toft, Carl and Larsson, Viktor and Pollefeys, Marc and Lepetit, Vincent and Hammarstrand, Lars and Kahl, Fredrik and others",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "3247--3257",
+    title = "{Back to the Feature: Learning Robust Camera Localization from Pixels to Pose}",
+    year = "2021"
+}
